@@ -52,6 +52,8 @@ const App = () => {
                 <li> Address : <span> 26 Wyle Cop, Shrewsbury, Shropshire, SY1 1XD </span> </li>
                 <li> Website : <span> www.Andrew.com </span> </li>
                 <li> Country : <span> United states </span> </li> 
+                <li> Country : <span> United states </span> </li> 
+                <li> Country : <span> United states </span> </li> 
               </ul>
             </div>
           </div>
